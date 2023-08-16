@@ -5,10 +5,10 @@ Advanced technologies Engineering Student & Robotics Enthusiast
 ---------------------------------------------------------
 
 
-* 🔭 I’m currently working on an automated EV charging Station Scale Model
-* 🌱 I’m currently learning Cryptography, ML
-* 👯 I’m looking to collaborate on projects that combine embedded systems, ML & crypto
-* 🤔 I’m looking for help with learning Crypto
+* 🔭 I’m currently working on a fire Detection System with computer vision(TinyML)
+* 🌱 I’m currently working on a "Machine Learning Engineer" track on Datacamp
+* 👯 I’m looking to collaborate on projects that combine embedded systems, ML & Networks
+* 🤔 I’m looking for help with learning more on Networks and Internet
 * 💬 Ask me about Robotics
 * 📫 How to reach me: wassim.hedfi@enstab.ucar.tn
 * 📜 Resume: [Cv_Hedfi_Wassim.pdf](https://github.com/Lwessside/Lwessside/files/11446760/Cv_Hedfi_Wassim.pdf)
