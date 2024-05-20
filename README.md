@@ -1,11 +1,11 @@
  Hi👋 I'm Wassim Hedfi
 =====================================================
 
-Advanced technologies Engineering Student & Robotics Enthusiast
+Robotics and Embedded Systems !
 ---------------------------------------------------------
 
 
-* 🔭 I’m currently working on a fire Detection System with computer vision(TinyML)
+* 🔭 I’m currently Learning FPGAs and VHDL
 * 🌱 I’m currently working on a "Machine Learning Engineer" track on Datacamp
 * 👯 I’m looking to collaborate on projects that combine embedded systems, ML & Networks
 * 🤔 I’m looking for help with learning more on Networks and Internet
