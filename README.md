@@ -5,7 +5,7 @@ Robotics and Embedded Systems !
 ---------------------------------------------------------
 
 
-* 🔭 I’m currently Learning FPGAs and VHDL
+* 🔭 I’m currently Learning FPGAs and HDLs
 * 🌱 I’m currently working on a "Machine Learning Engineer" track on Datacamp
 * 👯 I’m looking to collaborate on projects that combine embedded systems, ML & Networks
 * 🤔 I’m looking for help with learning more on Networks and Internet
