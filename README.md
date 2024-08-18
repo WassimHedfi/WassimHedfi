@@ -12,7 +12,6 @@ Robotics and Embedded Systems !
 * 💬 Ask me about Robotics
 * 📫 How to reach me: wassim.hedfi@enstab.ucar.tn
 * 📜 Resume: [Cv_Hedfi_Wassim.pdf](https://github.com/Lwessside/Lwessside/files/11446760/Cv_Hedfi_Wassim.pdf)
-* ⚡ I love Chess 
 
 ### Skills
 <div>
