@@ -8,8 +8,7 @@ Robotics and Embedded Systems !
 * 🔭 I’m currently Learning FPGAs and HDLs
 * 🌱 I’m currently working on a "Machine Learning Engineer" track on Datacamp
 * 👯 I’m looking to collaborate on projects that combine embedded systems, ML & Networks
-* 🤔 I’m looking for help with learning more on Networks and Internet
-* 💬 Ask me about Robotics
+* 💬 Ask me about Embedded Systems
 * 📫 How to reach me: wassim.hedfi@enstab.ucar.tn
 * 📜 Resume: [Cv_Hedfi_Wassim.pdf](https://github.com/Lwessside/Lwessside/files/11446760/Cv_Hedfi_Wassim.pdf)
 
