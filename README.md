@@ -10,7 +10,6 @@ Embedded Systems !
 * 👯 I’m looking to collaborate on projects that combine embedded systems, ML & Networks
 * 💬 Ask me about Embedded Systems
 * 📫 How to reach me: wassim.hedfi@enstab.ucar.tn
-* 📜 Resume: [Cv_Hedfi_Wassim.pdf](https://github.com/Lwessside/Lwessside/files/11446760/Cv_Hedfi_Wassim.pdf)
 
 ### Skills
 <div>
